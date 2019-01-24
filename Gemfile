@@ -70,5 +70,10 @@ group :test do
   gem 'webmock'
 end
 
+group :production do
+  gem "pg"
+  gem "rails_12factor"
+end
+
 gem 'activeadmin'
 gem 'devise'
