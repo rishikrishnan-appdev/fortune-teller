@@ -54,4 +54,4 @@ For example, the video describes how to fix the first zodiac -- Aries.
 
 ## Submitting
 
-`rails grade:all` when you're ready for feedback/to submit.
+`rails grade` when you're ready for feedback/to submit.
